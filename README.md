@@ -1,6 +1,6 @@
-# Farpost Category Classification
+# Category Classification
 
-Тестовое задание - автоматическая классификация объявлений 
+Задание - автоматическая классификация объявлений 
 по категориям. Лестница из 3 моделей (TF-IDF -> CatBoost -> BERT) 
 с полным error analysis.
 
